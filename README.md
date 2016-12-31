@@ -10,10 +10,7 @@
 Building upon previous code alongs, in this exercise you will add an embedded iframe map by coding along with the video provided, reviewing the concepts you were introduced to in the previous lessons.
 
 ## Instructions
-
-- Fork this repository on Github.
-- Use Terminal to clone your forked copy.
-- Then change directory into the repository folder.
+(steps 1-3 are no longer necessary.  IDE builds the fork automatically.)
 - Code along with the provided video below and/or its supplementary reading located below the video. Code everything you see there. Feel free to stop, pause, rewind or fast forward through the content to keep pace.
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/lYHcdsF0Iug?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
